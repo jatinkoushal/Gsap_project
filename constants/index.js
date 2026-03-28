@@ -118,19 +118,19 @@ const openingHours = [
 
 const socials = [
  {
-	name: "Instagram",
-	icon: "/images/insta.png",
-	url: "#",
+	name: "LinkdIn",
+	icon: "/images/LinkdIn.png",
+	url: "https://www.linkedin.com/in/jatin-koushal-a91836342/",
  },
  {
-	name: "X (Twitter)",
-	icon: "/images/x.png",
-	url: "#",
+	name: "Leetcode",
+	icon: "/images/Leetcode.png",
+	url: "https://leetcode.com/u/jatinkoushal/",
  },
  {
-	name: "Facebook",
-	icon: "/images/fb.png",
-	url: "#",
+	name: "Github",
+	icon: "/images/Github.png",
+	url: "https://github.com/jatinkoushal",
  },
 ];
 
